@@ -1,5 +1,5 @@
 <div style="width:90vw;display:flex;justify-content:center; ">
-    <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="1000" height="400">
+    <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000" height="400">
 </div>
 
 <h1 align="center">Hi 👋, I'm Bhabesh Chandra Pradhan</h1>
