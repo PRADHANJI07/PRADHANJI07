@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **bhabesh.pradhan1407@gmail.com**
 
-- ⚡ Fun fact **I love momos and biriyani 🤤.**
+- ⚡ Fun fact **I love to eat momos and biriyani 🤤.**
 
 
 <h3 align="left">Languages and Tools: 📝</h3>
